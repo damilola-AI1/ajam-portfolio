@@ -1,15 +1,10 @@
 import React from "react";
 
 
-
-
-
-
-
 const Hero = () => {
   return (
     <div className=" w-full flex mt-[80px] scrollbar-hide relative top-[-30px] ">
-      <div className="absolute w-[500px] h-[420px] bg-gradient-to-r from-[#F02248]  to-[#F02248] bottom-[75px] blur-[20px] left-[-220px]  "></div>
+      <div className="absolute w-[450px] h-[420px] bg-gradient-to-r from-[#F02248]  to-[#F02248] bottom-[75px] blur-[20px] left-[-170px]  "></div>
       <div className="relative text-white w-full flex flex-col justify-between font-bold  h-[440px]">
         <h1 className="text-[40pt] w-[600px] font-black ">
           Giving your brand an online <span className="text-[#09025e]">Presence</span>

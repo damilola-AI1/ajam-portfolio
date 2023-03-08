@@ -7,7 +7,7 @@ import Servicespage from './pages/Servicespage';
 
 function App() {
   return (
-    <div className="App overflow-x-hidden overflow-y-scroll w-screen h-screen">
+    <div className="App flex flex-col items-center overflow-x-hidden place-self-center overflow-y-scroll w-screen h-screen">
       <Homepage />
       <Aboutpage />
       <Servicespage />
